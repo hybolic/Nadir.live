@@ -1,0 +1,33 @@
+html, body, h1, h2, h3, p {
+	margin: 0;
+	padding: 0;
+	
+}
+img {
+	display: block;
+}.imageFloat {
+	height: auto;
+	max-width: 100%;
+	position: relative;
+	left: 0px;
+	bottom: -18px;
+
+}
+.Wrapper {
+	max-width: 361.5px;
+	max-height: 100%;
+	position: fixed;
+	left: 0px;
+	padding: 0px;
+	margin: 0px;
+	bottom: 0px;
+}
+
+body {
+	background-color: #030203;
+}
+div {
+	text-align: center;
+	color: #FFFFFF;
+	position: relative;
+}
