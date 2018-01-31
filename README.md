@@ -21,3 +21,7 @@ Landing page
  - new animation (this may be broken)
 GIT
  - ignore file added to remove project files from publishing
+----------
+## 0.1.1
+Landing page
+ - minor change to add warning text at top of page
