@@ -1,0 +1,53 @@
+#MainCanvas {
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 100%;
+
+}
+#loading {
+	width: 100%;
+	height: 100%;
+	margin: auto;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+#animation_container {
+	position:absolute;
+	margin:auto;
+	left:0;right:0;
+	top:0;bottom:0;
+}
+#dom_overlay_container2 {
+	width: 100%;
+	height: 100%;
+}
+#LoadingCanvas {
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 100%;
+}
+#centerBoth {
+	vertical-align: middle;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	margin-bottom: auto;
+	margin-top: auto;
+
+}
+#centerBoth2 {
+	margin-top: -86px;
+	position: relative;
+	top: 50%;
+}
+
+h1 {
+	font-size: 150px;
+	vertical-align: middle;
+	color: #FFFFFF;
+
+
+}
